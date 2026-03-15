@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\",
+  "WorkspaceRootPath": "C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\bigseaninthe_jung.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\AncientTemple.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|solutionrelative:bigseaninthe\u0027jung\\AncientTemple.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\WalkieWalkie.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|solutionrelative:bigseaninthe\u0027jung\\WalkieWalkie.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\bigseaninthe_jung.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|solutionrelative:bigseaninthe\u0027jung\\bigseaninthe_jung.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AncientTemple.py",
+              "DocumentMoniker": "C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\AncientTemple.py",
+              "RelativeDocumentMoniker": "bigseaninthe\u0027jung\\AncientTemple.py",
+              "ToolTip": "C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\AncientTemple.py",
+              "RelativeToolTip": "bigseaninthe\u0027jung\\AncientTemple.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-15T23:42:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalkieWalkie.py",
+              "DocumentMoniker": "C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\WalkieWalkie.py",
+              "RelativeDocumentMoniker": "bigseaninthe\u0027jung\\WalkieWalkie.py",
+              "ToolTip": "C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\WalkieWalkie.py",
+              "RelativeToolTip": "bigseaninthe\u0027jung\\WalkieWalkie.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-15T23:09:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "bigseaninthe_jung.py",
-              "DocumentMoniker": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\bigseaninthe_jung.py",
+              "DocumentMoniker": "C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\bigseaninthe_jung.py",
               "RelativeDocumentMoniker": "bigseaninthe\u0027jung\\bigseaninthe_jung.py",
-              "ToolTip": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\bigseaninthe_jung.py",
+              "ToolTip": "C:\\Users\\tompi\\OneDrive\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\bigseaninthe_jung.py",
               "RelativeToolTip": "bigseaninthe\u0027jung\\bigseaninthe_jung.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-03-13T04:06:17.302Z",
               "EditorCaption": ""
