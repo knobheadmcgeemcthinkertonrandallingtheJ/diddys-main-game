@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\donotchillonhim.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|solutionrelative:bigseaninthe\u0027jung\\donotchillonhim.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\tree.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{617E5420-9844-4A8D-A9F7-70160D74351A}|bigseaninthe\u0027jung\\bigseaninthe\u0027jung.pyproj|solutionrelative:bigseaninthe\u0027jung\\tree.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tree.py",
+              "DocumentMoniker": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\tree.py",
+              "RelativeDocumentMoniker": "bigseaninthe\u0027jung\\tree.py",
+              "ToolTip": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\tree.py",
+              "RelativeToolTip": "bigseaninthe\u0027jung\\tree.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-20T01:56:38.022Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "bigseaninthe\u0027jung\\donotchillonhim.py",
               "ToolTip": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\donotchillonhim.py",
               "RelativeToolTip": "bigseaninthe\u0027jung\\donotchillonhim.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-03-15T23:17:40.155Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "bigseaninthe\u0027jung\\bigseaninthe_jung.py",
               "ToolTip": "C:\\Users\\Kai Dignam\\Documents\\GitHub\\diddys-main-game\\bigseaninthe\u0027jung\\bigseaninthe_jung.py",
               "RelativeToolTip": "bigseaninthe\u0027jung\\bigseaninthe_jung.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-03-13T04:06:17.302Z",
               "EditorCaption": ""

@@ -1,6 +1,12 @@
+from tree import Tree
 from donotchillonhim import nochilling
+from WalkieWalkie import walkiewalkie
 
 health, cheekigan = 100, 67
+
+place = 0
+
+startpoint = Tree("The Tree")
 
 def main():
     global health, cheekigan
@@ -17,7 +23,7 @@ def main():
                 if healthigan != 0:
                     print("you " + (healthigan < 0 and "lost " or "gained ") + str(abs(healthigan)) + " health")
             case "2":
-                place = 1
+                place = walkiewalkie()
             case "3":
                 pass
             case _:
